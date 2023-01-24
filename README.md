@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Olayinkaspec
-- 👀 I’m interested in Frontend development and Flutter
-- 🌱 I’m currently learning Ux design
+- 👀 I’m interested in Frontend development, Web3 and Flutter
+- 🌱 I’m currently learning software engineering on ALX
 - 💞️ I’m looking to collaborate on design projects
 - 📫 You can reach me on twitter as Olayinka_hod
 
