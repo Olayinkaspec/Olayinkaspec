@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Olayinkaspec
-- 👀 I’m interested in Frontend and Backend development, Web3, and bioinformatics
-- 🌱 I’m currently sharpening my skills in Frontend development
-- 💞️ I love to collaborate on design projects
+- 👀 I’m interested in Software development, Machine Learning, and Bioinformatics
+- 🌱 I’m currently sharpening my skills in Data Analytics
+- 💞️ I love to collaborate on projects and participate in competitions
 - 📫 You can reach me on X as Olayinka_hod
 
 <!---
